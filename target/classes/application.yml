@@ -1,0 +1,12 @@
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/rating
+    username: postgres
+    password: fitybsh2
+
+  flyway:
+    enabled: true
+    validateMigrationNaming: true
+    ignoreMissingMigrations: true
+    ignoreIgnoredMigrations: true

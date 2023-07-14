@@ -1,0 +1,24 @@
+<configuration>
+    <jdbc>
+        <driver>org.postgresql.Driver</driver>
+        <url>jdbc:postgresql://localhost:5432/rating</url>
+        <user>postgres</user>
+        <password>fitybsh2</password>
+    </jdbc>
+    <generator>
+        <name>org.jooq.codegen.DefaultGenerator</name>
+        <database>
+            <name>org.jooq.meta.postgres.PostgresDatabase</name>
+            <includes>.*</includes>
+            <excludes></excludes>
+            <inputSchema>public</inputSchema>
+        </database>
+        <generate>
+            <deprecated>false</deprecated>
+        </generate>
+        <target>
+            <packageName>com.bensen.rating.db.jooq</packageName>
+            <directory>src/main/java</directory>
+        </target>
+    </generator>
+</configuration>
