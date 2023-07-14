@@ -1,0 +1,15 @@
+C:\Repos\rating\src\main\java\com\bensen\rating\RatingApplication.java
+C:\Repos\rating\src\main\java\com\bensen\rating\db\jooq\Public.java
+C:\Repos\rating\src\main\java\com\bensen\rating\repository\RatingRepository.java
+C:\Repos\rating\src\main\java\com\bensen\rating\db\jooq\Tables.java
+C:\Repos\rating\src\main\java\com\bensen\rating\model\Game.java
+C:\Repos\rating\src\main\java\com\bensen\rating\service\RatingService.java
+C:\Repos\rating\src\main\java\com\bensen\rating\db\jooq\tables\records\FlywaySchemaHistoryRecord.java
+C:\Repos\rating\src\main\java\com\bensen\rating\controller\RatingController.java
+C:\Repos\rating\src\main\java\com\bensen\rating\db\jooq\Keys.java
+C:\Repos\rating\src\main\java\com\bensen\rating\model\GameResult.java
+C:\Repos\rating\src\main\java\com\bensen\rating\db\jooq\tables\records\PlayerRecord.java
+C:\Repos\rating\src\main\java\com\bensen\rating\db\jooq\tables\Player.java
+C:\Repos\rating\src\main\java\com\bensen\rating\db\jooq\tables\FlywaySchemaHistory.java
+C:\Repos\rating\src\main\java\com\bensen\rating\db\jooq\DefaultCatalog.java
+C:\Repos\rating\src\main\java\com\bensen\rating\db\jooq\Indexes.java

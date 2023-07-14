@@ -1,0 +1,16 @@
+com\bensen\rating\db\jooq\Keys.class
+com\bensen\rating\model\GameResult.class
+com\bensen\rating\RatingApplication.class
+com\bensen\rating\db\jooq\Public.class
+com\bensen\rating\model\Game$GameBuilder.class
+com\bensen\rating\db\jooq\Indexes.class
+com\bensen\rating\service\RatingService.class
+com\bensen\rating\db\jooq\tables\FlywaySchemaHistory.class
+com\bensen\rating\model\Game.class
+com\bensen\rating\db\jooq\tables\records\PlayerRecord.class
+com\bensen\rating\db\jooq\Tables.class
+com\bensen\rating\controller\RatingController.class
+com\bensen\rating\db\jooq\tables\Player.class
+com\bensen\rating\repository\RatingRepository.class
+com\bensen\rating\db\jooq\DefaultCatalog.class
+com\bensen\rating\db\jooq\tables\records\FlywaySchemaHistoryRecord.class
